@@ -104,7 +104,7 @@ function Counter() {
           className="rounded-none  bg-slate-100 px-7  py-3 m-4 text-2xl hover:border-double border-4 border-indigo-200"
           onClick={() => dispatch(reset())}
         >
-          reset
+          reset    
         </button>
       </div>
     </div>
